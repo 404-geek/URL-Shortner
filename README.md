@@ -19,6 +19,12 @@
     
     >`url id` is to be appended in the url
 
+## Run in Production
+
+- Install Docker Engine ([Docker Installation in Debian](https://docs.docker.com/engine/install/debian/))
+- Build Docker image of the app `docker build -t urlservice .` in the project directory.
+- Run the application `docker run -d -p 5000:5000 urlservice`                                                                           
+                                                                          
 ## Features that can be included
 
 - Web Platform for these APIs.
