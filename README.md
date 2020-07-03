@@ -2,7 +2,7 @@
 
 ## Prerequisites
 
-- Install Redis server ([Redis Installation in Linux](https://glowsquid.com/url/))
+- Install Redis server ([Redis Installation in Linux](https://redis.io/topics/quickstart))
 
 ## Setup
 
